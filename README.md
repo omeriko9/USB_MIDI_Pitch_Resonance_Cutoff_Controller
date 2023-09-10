@@ -3,7 +3,7 @@ This project is a simple USB MIDI controller, allows changing the pitch, resonan
 
 Layout:
 
-![image](https://github.com/omeriko9/USB_MIDI_Pitch_Resonance_Cutoff_Controller/assets/5153984/65f7e0f4-d5d0-4404-b88f-5a2dce85ce3b)
+![image](https://github.com/omeriko9/USB_MIDI_Pitch_Resonance_Cutoff_Controller/assets/5153984/3a752072-070a-4786-8918-8819f2b33c17)
 
 Finished Project:
 
